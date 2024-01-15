@@ -1,6 +1,6 @@
 # WoodEditing
-this tool was made for my mods to do mod compat more easily with wood planks.
+Javascript tool that take an image and put it to another. 
 ## how does it work?
-Basically it replace the base texture pixel by the other texture pixels
-## can i use this for more than just planks?
-yes you can but if you do so you will need to change some things.
+it take an image palette and try to apply it to the other image.
+## What's the deal with the name?
+this tool was created to help me make textures for my minecraft mods.
