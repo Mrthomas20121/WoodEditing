@@ -1,0 +1,405 @@
+{
+    "ars_nouveau": [
+        {
+            "type": "planks",
+            "value": "archwood_planks"
+        }
+    ],
+    "atmospheric": [
+        {
+            "type": "sandstone",
+            "value": "arid_sandstone"
+        },
+        {
+            "type": "planks",
+            "value": "aspen_planks"
+        },
+        {
+            "type": "planks",
+            "value": "grimwood_planks"
+        },
+        {
+            "type": "planks",
+            "value": "kousa_planks"
+        },
+        {
+            "type": "planks",
+            "value": "morado_planks"
+        },
+        {
+            "type": "planks",
+            "value": "rosewood_planks"
+        },
+        {
+            "type": "planks",
+            "value": "yucca_planks"
+        }
+    ],
+    "atum": [
+        {
+            "type": "planks",
+            "value": "deadwood_planks"
+        },
+        {
+            "type": "planks",
+            "value": "palm_planks"
+        }
+    ],
+    "bayou_blues": [
+        {
+            "type": "planks",
+            "value": "cypress_planks"
+        }
+    ],
+    "betterendforge": [
+        {
+            "type": "planks",
+            "value": "dragon_tree_planks"
+        },
+        {
+            "type": "planks",
+            "value": "end_lotus_planks"
+        },
+        {
+            "type": "planks",
+            "value": "helix_tree_planks"
+        },
+        {
+            "type": "planks",
+            "value": "jellyshroom_planks"
+        },
+        {
+            "type": "planks",
+            "value": "lacugrove_planks"
+        },
+        {
+            "type": "planks",
+            "value": "lucernia_planks"
+        },
+        {
+            "type": "planks",
+            "value": "mossy_glowshroom_planks"
+        },
+        {
+            "type": "planks",
+            "value": "pythadendron_planks"
+        },
+        {
+            "type": "planks",
+            "value": "tenanea_planks"
+        },
+        {
+            "type": "planks",
+            "value": "umbrella_tree_planks"
+        }
+    ],
+    "biomesoplenty": [
+        {
+            "type": "planks",
+            "value": "cherry_planks"
+        },
+        {
+            "type": "planks",
+            "value": "dead_planks"
+        },
+        {
+            "type": "planks",
+            "value": "fir_planks"
+        },
+        {
+            "type": "planks",
+            "value": "hellbark_planks"
+        },
+        {
+            "type": "planks",
+            "value": "jacaranda_planks"
+        },
+        {
+            "type": "planks",
+            "value": "magic_planks"
+        },
+        {
+            "type": "planks",
+            "value": "mahogany_planks"
+        },
+        {
+            "type": "planks",
+            "value": "palm_planks"
+        },
+        {
+            "type": "planks",
+            "value": "redwood_planks"
+        },
+        {
+            "type": "planks",
+            "value": "umbran_planks"
+        },
+        {
+            "type": "planks",
+            "value": "willow_planks"
+        }
+    ],
+    "blue_skies": [
+        {
+            "type": "planks",
+            "value": "bluebright_planks"
+        },
+        {
+            "type": "planks",
+            "value": "cherry_planks"
+        },
+        {
+            "type": "planks",
+            "value": "frostbright_planks"
+        },
+        {
+            "type": "planks",
+            "value": "maple_planks"
+        },
+        {
+            "type": "planks",
+            "value": "starlit_planks"
+        },
+		{
+            "type": "planks",
+            "value": "lunar_planks"
+        },
+        {
+            "type": "planks",
+            "value": "dusk_planks"
+        },
+		{
+            "type": "planks",
+            "value": "crystallized_planks"
+        }
+    ],
+    "byg": [
+        {
+            "type": "planks",
+            "value": "aspen_planks"
+        },
+        {
+            "type": "planks",
+            "value": "baobab_planks"
+        },
+        {
+            "type": "planks",
+            "value": "blue_enchanted_planks"
+        },
+        {
+            "type": "planks",
+            "value": "bulbis_planks"
+        },
+        {
+            "type": "planks",
+            "value": "cherry_planks"
+        },
+		{
+            "type": "planks",
+            "value": "cika_planks"
+        },
+        {
+            "type": "planks",
+            "value": "cypress_planks"
+        },
+        {
+            "type": "planks",
+            "value": "ebony_planks"
+        },
+        {
+            "type": "planks",
+            "value": "embur_planks"
+        },
+        {
+            "type": "planks",
+            "value": "ether_planks"
+        },
+        {
+            "type": "planks",
+            "value": "fir_planks"
+        },
+        {
+            "type": "planks",
+            "value": "glacial_oak_planks"
+        },
+        {
+            "type": "planks",
+            "value": "green_enchanted_planks"
+        },
+        {
+            "type": "planks",
+            "value": "holly_planks"
+        },
+        {
+            "type": "planks",
+            "value": "imparius_planks"
+        },
+        {
+            "type": "planks",
+            "value": "ironwood_planks"
+        },
+        {
+            "type": "planks",
+            "value": "jacaranda_planks"
+        },
+        {
+            "type": "planks",
+            "value": "lament_planks"
+        },
+        {
+            "type": "planks",
+            "value": "mahogany_planks"
+        },
+        {
+            "type": "planks",
+            "value": "mangrove_planks"
+        },
+        {
+            "type": "planks",
+            "value": "maple_planks"
+        },
+        {
+            "type": "planks",
+            "value": "nightshade_planks"
+        },
+        {
+            "type": "planks",
+            "value": "palm_planks"
+        },
+        {
+            "type": "planks",
+            "value": "pine_planks"
+        },
+        {
+            "type": "planks",
+            "value": "rainbow_eucalyptus_planks"
+        },
+        {
+            "type": "planks",
+            "value": "redwood_planks"
+        },
+        {
+            "type": "planks",
+            "value": "skyris_planks"
+        },
+        {
+            "type": "planks",
+            "value": "sythian_planks"
+        },
+        {
+            "type": "planks",
+            "value": "willow_planks"
+        },
+        {
+            "type": "planks",
+            "value": "witch_hazel_planks"
+        },
+        {
+            "type": "planks",
+            "value": "zelkova_planks"
+        }
+    ],
+    "endergetic": [
+        {
+            "type": "planks",
+            "value": "poise_planks"
+        }
+    ],
+    "environmental": [
+        {
+            "type": "planks",
+            "value": "cherry_planks"
+        },
+        {
+            "type": "planks",
+            "value": "willow_planks"
+        },
+        {
+            "type": "planks",
+            "value": "wisteria_planks"
+        }
+    ],
+    "naturesaura": [
+        {
+            "type": "planks",
+            "value": "ancient_planks"
+        }
+    ],
+    "tconstruct": [
+        {
+            "type": "planks",
+            "value": "greenheart_planks"
+        },
+        {
+            "type": "planks",
+            "value": "skyroot_planks"
+        },
+        {
+            "type": "planks",
+            "value": "bloodshroom_planks"
+        },
+        {
+            "type": "planks",
+            "value": "nahuatl"
+        }
+    ],
+	// not sure if they exists in this version
+    "tropicraft": [
+        {
+            "type": "planks",
+            "value": "mahogany_planks"
+        },
+        {
+            "type": "planks",
+            "value": "mangrove_planks"
+        },
+        {
+            "type": "planks",
+            "value": "palm_planks"
+        }
+    ],
+    "twilightforest": [
+        {
+            "type": "planks",
+            "value": "planks_canopy"
+        },
+        {
+            "type": "planks",
+            "value": "planks_darkwood"
+        },
+        {
+            "type": "planks",
+            "value": "planks_mine"
+        },
+        {
+            "type": "planks",
+            "value": "planks_sort"
+        },
+        {
+            "type": "planks",
+            "value": "planks_time"
+        },
+        {
+            "type": "planks",
+            "value": "planks_trans"
+        },
+        {
+            "type": "planks",
+            "value": "planks_twilight_oak"
+        }
+    ],
+    "undergarden": [
+        {
+            "type": "planks",
+            "value": "grongle_planks"
+        },
+        {
+            "type": "planks",
+            "value": "smogstem_planks"
+        },
+        {
+            "type": "planks",
+            "value": "wigglewood_planks"
+        }
+    ]
+}

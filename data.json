@@ -1,0 +1,576 @@
+{
+    "genericeco": {
+        "entries": [
+            { "type": "planks", "value": "alder" },
+            { "type": "planks", "value": "apple" },
+            { "type": "planks", "value": "ash" },
+            { "type": "planks", "value": "aspen" },
+            { "type": "planks", "value": "bald_cypress" },
+            { "type": "planks", "value": "balsa" },
+            { "type": "planks", "value": "baobab" },
+            { "type": "planks", "value": "basswood" },
+            { "type": "planks", "value": "beech" },
+            { "type": "planks", "value": "butternut" },
+            { "type": "planks", "value": "cedar" },
+            { "type": "planks", "value": "cherry" },
+            { "type": "planks", "value": "chestnut" },
+            { "type": "planks", "value": "cypress" },
+            { "type": "planks", "value": "deadwood" },
+            { "type": "planks", "value": "dogwood" },
+            { "type": "planks", "value": "douglas_fir" },
+            { "type": "planks", "value": "drago" },
+            { "type": "planks", "value": "dragon_bamboo" },
+            { "type": "planks", "value": "ebony" },
+            { "type": "planks", "value": "elm" },
+            { "type": "planks", "value": "eucalyptus" },
+            { "type": "planks", "value": "fir" },
+            { "type": "planks", "value": "ginkgo" },
+            { "type": "planks", "value": "hackberry" },
+            { "type": "planks", "value": "hawthorn" },
+            { "type": "planks", "value": "hazel" },
+            { "type": "planks", "value": "hemlock" },
+            { "type": "planks", "value": "hickory" },
+            { "type": "planks", "value": "holly" },
+            { "type": "planks", "value": "hornbeam" },
+            { "type": "planks", "value": "jacaranda" },
+            { "type": "planks", "value": "japanese_maple" },
+            { "type": "planks", "value": "juniper" },
+            { "type": "planks", "value": "kapok" },
+            { "type": "planks", "value": "larch" },
+            { "type": "planks", "value": "linden" },
+            { "type": "planks", "value": "maggiriyl" },
+            { "type": "planks", "value": "magnolia" },
+            { "type": "planks", "value": "mahogany" },
+            { "type": "planks", "value": "mangrove" },
+            { "type": "planks", "value": "maple" },
+            { "type": "planks", "value": "marula" },
+            { "type": "planks", "value": "palm" },
+            { "type": "planks", "value": "pine" },
+            { "type": "planks", "value": "plane" },
+            { "type": "planks", "value": "poplar" },
+            { "type": "planks", "value": "rainbow_eucalyptus" },
+            { "type": "planks", "value": "redwood" },
+            { "type": "planks", "value": "robinia" },
+            { "type": "planks", "value": "rosewood" },
+            { "type": "planks", "value": "sequoia" },
+            { "type": "planks", "value": "teak" },
+            { "type": "planks", "value": "tupelo" },
+            { "type": "planks", "value": "umaraich" },
+            { "type": "planks", "value": "voluclark" },
+            { "type": "planks", "value": "walnut" },
+            { "type": "planks", "value": "willow" },
+            { "type": "planks", "value": "winisugi" },
+            { "type": "planks", "value": "wisteria" },
+            { "type": "planks", "value": "yew" },
+            { "type": "planks", "value": "zelkova" }
+          ],
+        "including": [
+            "vertical_{block}"
+        ]
+    },
+    "quark": {
+        "entries": [
+            { "type": "planks", "value": "black_stained" },
+            { "type": "planks", "value": "blue_stained" },
+            { "type": "planks", "value": "brown_stained" },
+            { "type": "planks", "value": "cyan_stained" },
+            { "type": "planks", "value": "gray_stained" },
+            { "type": "planks", "value": "green_stained" },
+            { "type": "planks", "value": "light_blue_stained" },
+            { "type": "planks", "value": "lime_stained" },
+            { "type": "planks", "value": "magenta_stained" },
+            { "type": "planks", "value": "orange_stained" },
+            { "type": "planks", "value": "pink_stained" },
+            { "type": "planks", "value": "purple_stained" },
+            { "type": "planks", "value": "red_stained" },
+            { "type": "planks", "value": "light_gray_stained" },
+            { "type": "planks", "value": "white_stained" },
+            { "type": "planks", "value": "yellow_stained" }
+          ],
+        "including": [
+            "vertical_{block}"
+        ]
+    },
+    "druidcraft": [
+        {
+            "type": "planks",
+            "value": "elder"
+        },
+        {
+            "type": "planks",
+            "value": "darkwood"
+        }
+    ],
+    "infernalexp": [
+        {
+            "type": "stone",
+            "value": "soul_stone"
+        },
+        {
+            "type": "planks",
+            "value": "basalt_cobbled"
+        },
+        {
+            "type": "stone",
+            "value": "dullstone"
+        }
+    ],
+    "traverse": [
+        {
+            "type": "planks",
+            "value": "fir"
+        }
+    ],
+    "atum": [
+        {
+            "type": "stone",
+            "value": "linestone"
+        },
+        {
+            "type": "planks",
+            "value": "palm"
+        },
+        {
+            "type": "planks",
+            "value": "deadwood"
+        }
+    ],
+    "betternether": [
+        {
+            "type": "planks",
+            "value": "stalagnate"
+        },
+        {
+            "type": "planks",
+            "value": "willow"
+        },
+        {
+            "type": "planks",
+            "value": "wart"
+        },
+        {
+            "type": "planks",
+            "value": "rubeus"
+        },
+        {
+            "type": "planks",
+            "value": "mushroom_fir"
+        },
+        {
+            "type": "planks",
+            "value": "anchor_tree"
+        },
+        {
+            "type": "planks",
+            "value": "nether_sakura"
+        },
+        {
+            "type": "planks",
+            "value": "soul_sandstone?"
+        }
+    ],
+    "betterendforge": [
+        {
+            "type": "planks",
+            "value": "mossy_glowshroom"
+        },
+        {
+            "type": "planks",
+            "value": "lacugrove"
+        },
+        {
+            "type": "planks",
+            "value": "end_lotus"
+        },
+        {
+            "type": "planks",
+            "value": "pythadendron"
+        },
+        {
+            "type": "planks",
+            "value": "dragon_tree"
+        },
+        {
+            "type": "planks",
+            "value": "tenanea"
+        },
+        {
+            "type": "planks",
+            "value": "helix_tree"
+        },
+        {
+            "type": "planks",
+            "value": "umbrella_tree"
+        },
+        {
+            "type": "planks",
+            "value": "jellyshroom"
+        },
+        {
+            "type": "planks",
+            "value": "lucernia"
+        },
+        {
+            "type": "planks",
+            "value": "flavolite"
+        },
+        {
+            "type": "planks",
+            "value": "violecite"
+        },
+        {
+            "type": "stone",
+            "value": "sulfuric_rock"
+        },
+        {
+            "type": "stone",
+            "value": "virid_jadestone"
+        },
+        {
+            "type": "stone",
+            "value": "azure_jadestone"
+        },
+        {
+            "type": "stone",
+            "value": "sandy_jadestone"
+        },
+        {
+            "type": "planks",
+            "value": "umbralith"
+        }
+    ],
+    "twilight_forest": [
+        {
+            "type": "planks",
+            "value": "twilight_oak"
+        },
+        {
+            "type": "planks",
+            "value": "canopy"
+        },
+        {
+            "type": "planks",
+            "value": "mangrove"
+        },
+        {
+            "type": "planks",
+            "value": "dark"
+        },
+        {
+            "type": "planks",
+            "value": "time"
+        },
+        {
+            "type": "planks",
+            "value": "trans"
+        },
+        {
+            "type": "planks",
+            "value": "minewood"
+        },
+        {
+            "type": "planks",
+            "value": "sort"
+        }
+    ],
+    "blue_skies": [
+        {
+            "type": "planks",
+            "value": "taratite"
+        },
+        {
+            "type": "stone",
+            "value": "turquoise_stone"
+        },
+        {
+            "type": "planks",
+            "value": "bluebright"
+        },
+        {
+            "type": "planks",
+            "value": "starlit"
+        },
+        {
+            "type": "planks",
+            "value": "frostbright"
+        },
+        {
+            "type": "sandstone",
+            "value": "midnight_sandstone"
+        },
+        {
+            "type": "stone",
+            "value": "lunar_stone"
+        },
+        {
+            "type": "planks",
+            "value": "lunar"
+        },
+        {
+            "type": "planks",
+            "value": "dusk"
+        },
+        {
+            "type": "planks",
+            "value": "maple"
+        },
+        {
+            "type": "planks",
+            "value": "crystallized"
+        },
+        {
+            "type": "sandstone",
+            "value": "crystal_sandstone"
+        },
+        {
+            "type": "planks",
+            "value": "cherry"
+        }
+    ],
+    "biomesoplenty": [
+        {
+            "type": "sandstone",
+            "value": "white_sandstone"
+        },
+        {
+            "type": "sandstone",
+            "value": "orange_sandstone"
+        },
+        {
+            "type": "sandstone",
+            "value": "black_sandstone"
+        },
+        {
+            "type": "planks",
+            "value": "fir"
+        },
+        {
+            "type": "planks",
+            "value": "redwood"
+        },
+        {
+            "type": "planks",
+            "value": "cherry"
+        },
+        {
+            "type": "planks",
+            "value": "mahogany"
+        },
+        {
+            "type": "planks",
+            "value": "jacaranda"
+        },
+        {
+            "type": "planks",
+            "value": "palm"
+        },
+        {
+            "type": "planks",
+            "value": "willow"
+        },
+        {
+            "type": "planks",
+            "value": "dead"
+        },
+        {
+            "type": "planks",
+            "value": "magic"
+        },
+        {
+            "type": "planks",
+            "value": "umbran"
+        },
+        {
+            "type": "planks",
+            "value": "hellbark"
+        }
+    ],
+    "undergarden": [
+        {
+            "type": "stone",
+            "value": "depthrock"
+        },
+        {
+            "type": "stone",
+            "value": "shiverstone"
+        },
+        {
+            "type": "stone",
+            "value": "tremblecrust"
+        },
+        {
+            "type": "planks",
+            "value": "smogstem"
+        },
+        {
+            "type": "planks",
+            "value": "wigglewood"
+        },
+        {
+            "type": "planks",
+            "value": "grongle"
+        }
+    ],
+    "byg": [
+        {
+            "type": "stone",
+            "value": "dacite"
+        },
+        {
+            "type": "stone",
+            "value": "red_rock"
+        },
+        {
+            "type": "planks",
+            "value": "travertine"
+        },
+        {
+            "type": "stone",
+            "value": "rocky_stone"
+        },
+        {
+            "type": "stone",
+            "value": "scoria"
+        },
+        {
+            "type": "stone",
+            "value": "soapstone"
+        },
+        {
+            "type": "sandstone",
+            "value": "black_sandstone"
+        },
+        {
+            "type": "sandstone",
+            "value": "white_sandstone"
+        },
+        {
+            "type": "sandstone",
+            "value": "blue_sandstone"
+        },
+        {
+            "type": "sandstone",
+            "value": "purple_sandstone"
+        },
+        {
+            "type": "sandstone",
+            "value": "pink_sandstone"
+        },
+        {
+            "type": "planks",
+            "value": "aspen"
+        },
+        {
+            "type": "planks",
+            "value": "baobab"
+        },
+        {
+            "type": "planks",
+            "value": "blue_enchanted"
+        },
+        {
+            "type": "planks",
+            "value": "bulbis"
+        },
+        {
+            "type": "planks",
+            "value": "cherry"
+        },
+        {
+            "type": "planks",
+            "value": "cika"
+        },
+        {
+            "type": "planks",
+            "value": "cypress"
+        },
+        {
+            "type": "planks",
+            "value": "ebony"
+        },
+        {
+            "type": "planks",
+            "value": "ether"
+        },
+        {
+            "type": "planks",
+            "value": "fir"
+        },
+        {
+            "type": "planks",
+            "value": "green_enchanted"
+        },
+        {
+            "type": "planks",
+            "value": "holly"
+        },
+        {
+            "type": "planks",
+            "value": "imparius"
+        },
+        {
+            "type": "planks",
+            "value": "jacaranda"
+        },
+        {
+            "type": "planks",
+            "value": "lament"
+        },
+        {
+            "type": "planks",
+            "value": "mahogany"
+        },
+        {
+            "type": "planks",
+            "value": "mangrove"
+        },
+        {
+            "type": "planks",
+            "value": "maple"
+        },
+        {
+            "type": "planks",
+            "value": "nightshade"
+        },
+        {
+            "type": "planks",
+            "value": "palm"
+        },
+        {
+            "type": "planks",
+            "value": "pine"
+        },
+        {
+            "type": "planks",
+            "value": "rainbow_eucalyptus"
+        },
+        {
+            "type": "planks",
+            "value": "redwood"
+        },
+        {
+            "type": "planks",
+            "value": "skyris"
+        },
+        {
+            "type": "planks",
+            "value": "willow"
+        },
+        {
+            "type": "planks",
+            "value": "witch_hazel"
+        },
+        {
+            "type": "planks",
+            "value": "zelkova"
+        },
+        {
+            "type": "planks",
+            "value": "sythian"
+        },
+        {
+            "type": "planks",
+            "value": "embur"
+        }
+    ]
+}
